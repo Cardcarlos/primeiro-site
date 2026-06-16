@@ -1,0 +1,14 @@
+ body{
+            background-color: rgb(0, 0, 0);
+            color:white
+        }
+        h1{
+            color: red;
+    
+        }
+        #GO {
+            color:chartreuse
+        }
+        #CS {
+            color: blueviolet;
+        }
