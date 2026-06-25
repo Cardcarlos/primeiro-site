@@ -16,5 +16,7 @@
         #curtidas{
             background-color: crimson; /*cor de fundo*/
             color: blue; /*cor de letras*/
-            pa
+            padding: 5px 10px 5px 10px; /* espaço interno*/
+            border: 2px salid  pink; /* borda*/
+            border-radius: 12px;       /*bordas arredondadas*/
         }
