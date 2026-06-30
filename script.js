@@ -4,5 +4,5 @@ curtidas.addEventListener("click", aumetarCurtidas)
 //função de aumetar curtidas 
 function aumetarCurtidas(){
     let quantidade = document.querySelector("span")
-    quantitade.textContent++;
+    quantidade.textContent++;
 }
